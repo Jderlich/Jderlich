@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AKAFAK Jordan
+- 👋 Hi, I’m AKAFAK Sokeng Jordan Derlich
 - 👀 I’m interested in making sense of huge amount of data in order to improve and ease people live.
 - 🌱 I’m currently learning Data science and Engineering
 - 💞️ I’m looking to collaborate on projects to support decision making process
